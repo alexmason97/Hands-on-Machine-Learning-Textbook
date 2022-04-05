@@ -1,1 +1,2 @@
-readme
+Chapter 13 primarily goes over the TensorFlow Data API and how to do various actions with it such as shuffling data, preprocessing data and creating a dataset from keras wrapped inside TensorFlow. Other topics discussed in this chapter include creating TF Record files and how to compress and save them, a brief section on understanding protocol buffers and how they are used in TensorFlow called "Protobufs" and how to preprocess data using TensorFlow for tasks suchgs as One-Hot Encoding, Word Embeddings, and data transformations. 
+More details on these topics can be found inside of the jupyter notebook associated to this chapter.
