@@ -1,1 +1,3 @@
-readme
+Chapter 19 is a short chapter that finishes off the textbook talking about how to use a GPU to speed up training Machine Learning models if you don't know how to use one with TensorFlow and other cloud alternatives where you can use GPU or TPU computing power such as Google Cloud, AWS, or even Google Colab for free. There is also a mention of how to deploy machine learning models to the cloud with TensorFlow serving and how you can train models in parallel across multiple GPUs if you decide to purchase and use multiple. 
+The jupyter notebook for this chapter was mainly showing how to use a GPU but I myself own a GPU and use it quite frequently to run my code so it wasn't really worth going over as I am very familiar with NVIDIA GPU optimization with TensorFlow and CUDA. The Jupyter notebook for this chapter just has some knowledge exercise answered from the end of the chapter. 
+Thanks for reading!
